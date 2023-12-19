@@ -3,10 +3,10 @@
 
 import tweepy
 #API KEYS
-consumer_key = "5Xx2Wm2kIOPXoMRMpi1Tt4zKw"
-consumer_secret = "pSICn2IAxIhQx72iIsY10ckxe4pMJr2Bn03rgcF3DojiZDAlqB"
-access_token = "1475544058521075712-Nwhvu0XPa2VmuiJaq4vqZlAjefWHh7"
-access_token_secret = "RkeRDhblUNPpPSWYhlC5Yyo4FXNc3jPm5g8yiCwVdKTyn" 
+consumer_key = "CONSUMER_KEY"
+consumer_secret = "CONSUMER_SECRET"
+access_token = "ACCESS_TOKEN"
+access_token_secret = "ACCESS_TOKEN_SECRET:
 
 #Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
