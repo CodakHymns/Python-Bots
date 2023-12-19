@@ -6,8 +6,8 @@ import praw
 
 #creating the reddit object withthe provided variables credentials.
 reddit = praw.Reddit(
-    client_id = "L9da1MhQpn__6n0mQ0VSAw", #Unique
-    client_secret = "-ByILG_FQ0LIXk7vZ2IDS3ytwMaX7A", #Unique
+    client_id = "CLIENT_ID", #Unique
+    client_secret = "CLIENT_SECRET", #Unique
     user_agent = "myBot/0.0.1"
 )
 
